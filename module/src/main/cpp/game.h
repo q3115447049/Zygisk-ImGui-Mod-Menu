@@ -1,3 +1,3 @@
 #pragma once
 
-#define GamePackageName "com.kiloo.subwaysurf"
+#define GamePackageName "com.catsbit.oxidesurvivalisland"
